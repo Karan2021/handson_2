@@ -1,0 +1,64 @@
+Source:838927493
+Destination:38798423
+Date:23-8-2021 12:23:12
+Call status:Failed
+
+Source:838927493
+Destination:38798423
+Date:23-8-2021 12:23:12
+Call status:Success
+
+Source:838927493
+Destination:38798423
+Date:23-8-2021 12:23:12
+Call status:Failed
+
+Source:838927493
+Destination:38798423
+Date:23-8-2021 12:23:12
+Call status:Failed
+
+Source:838927493
+Destination:38798423
+Date:23-8-2021 12:23:12
+Call status:Success
+
+Source:838927493
+Destination:38798423
+Date:23-8-2021 12:23:12
+Call status:Failed
+
+Source:838927493
+Destination:38798423
+Date:23-8-2021 12:23:12
+Call status:Success
+
+Source:838927493
+Destination:38798423
+Date:23-8-2021 12:23:12
+Call status:Failed
+
+Source:838927493
+Destination:38798423
+Date:23-8-2021 12:23:12
+Call status:Missed
+
+Source:838927493
+Destination:38798423
+Date:23-8-2021 12:23:12
+Call status:Failed
+
+Source:838927493
+Destination:38798423
+Date:23-8-2021 12:23:12
+Call status:Missed
+
+Source:838927493
+Destination:38798423
+Date:23-8-2021 12:23:12
+Call status:Missed
+
+Source:838927493
+Destination:38798423
+Date:23-8-2021 12:23:12
+Call status:Failed
